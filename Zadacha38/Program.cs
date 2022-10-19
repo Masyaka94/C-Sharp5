@@ -33,6 +33,3 @@ for (int i = 0; i<array.Length; i++)
     }
 sum = maxPos - minPos;
 Console.Write($"Разница между максимальным {maxPos} и минимальным {minPos} элементами массива равна: {sum}");
-
-//sum = {array[maxPosition]}-{array[minPosition]};
-//Console.Write($"{array[maxPosition]}-{array[minPosition]} == {sum}");
